@@ -10,4 +10,9 @@
 ![get request](dev-data/img/get-request.jpg?raw=true 'Get request')
 
 ### Example of post request in postman
+
 ![post request](dev-data/img/post-request.jpg?raw=true 'Get request')
+
+### Example of get specific tour in postman
+
+![get request - by id](dev-data/img/get-specific-tour.jpg?raw=true 'Get request')
